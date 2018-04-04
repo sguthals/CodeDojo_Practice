@@ -3,6 +3,8 @@
 Check out this GitHub Repository!
 
 Try doing the following:
-- [ ] Fork the repository
+- [ ] Fork or Clone the repository
 - [ ] Edit the Readme
 - [ ] Create a pull request
+
+Testing from the desktop one 

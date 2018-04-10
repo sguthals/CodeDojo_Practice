@@ -9,3 +9,4 @@ Try doing the following:
 
 Testing from the desktop one
 Showing a push to a branch and a PR from a Forked Project
+Testing in VSCode
